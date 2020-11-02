@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/scala-support-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/xml-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/selelib/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
