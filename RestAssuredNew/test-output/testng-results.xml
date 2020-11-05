@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3230" started-at="2020-11-03T13:01:31Z" finished-at="2020-11-03T13:01:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3230" started-at="2020-11-03T13:01:31Z" finished-at="2020-11-03T13:01:34Z">
+      <class name="com.complexNestedJson.SumValidation">
+        <test-method status="PASS" signature="sumOfCouseEvaluation()[pri:0, instance:com.complexNestedJson.SumValidation@6f7fd0e6]" name="sumOfCouseEvaluation" duration-ms="3104" started-at="2020-11-03T13:01:31Z" finished-at="2020-11-03T13:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumOfCouseEvaluation -->
+      </class> <!-- com.complexNestedJson.SumValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

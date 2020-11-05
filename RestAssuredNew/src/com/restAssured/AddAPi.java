@@ -6,11 +6,6 @@ import io.restassured.path.json.JsonPath;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
-
-
-
-
-
 public class AddAPi {
 	public static void main(String[] args) {
 		
@@ -20,9 +15,7 @@ public class AddAPi {
 	//when...submit the type...(http and response)
 	//then...validate the response
 	
-	
-	
-	RestAssured.baseURI = "https://rahulshettyacademy.com";
+    RestAssured.baseURI = "https://rahulshettyacademy.com";
 	         given().log().all().queryParam("key", "qaclick123")
 			.headers("Content-Type", "application/json").body("{\r\n" + 
 					"  \"location\": {\r\n" + 

@@ -50,5 +50,6 @@
 	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/xml-path-4.3.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="E:/UDEMY RestApi/UNZIPAPIJAR/JAR/xml-path-4.3.1-sources.jar"/>
 	<classpathentry kind="lib" path="E:/selelib/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="E:/selelib/jcommander-1.72.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
